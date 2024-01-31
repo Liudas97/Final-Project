@@ -22,12 +22,13 @@ Used imports: BeautifulSoup, requests
 
 Steps:
 
-Getting data from URL ("https://www.formula1.com/en/results.html")
-Getting needed data from url as table using Beautiful soup and indicate analysis method (html.parser)
-Using "if" and "for" received data inserted into table in Postgres
+1. Getting data from URL (https://www.formula1.com/en/results.html) 
+2. Getting needed data from url as table using Beautiful soup and indicate analysis method (html.parser)
+3. Using "if" and "for" received data inserted into table in Postgres
 
 
-Analize.py
+### final_project.py
+
 This is the main project file where all analysis were made. All visuals are controlled by functions, which helps to separate all graphs in the code.
 
 Steps:
