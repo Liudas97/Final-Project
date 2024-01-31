@@ -33,7 +33,8 @@ This is the main project file where all analyses were made.
 Steps:
 
 1. Calculated total wins by car and created a graph of the Top 5 cars
-
+src="https://github.com/Liudas97/Final-Project/blob/main/Graphics/wins%20by%20car%20top%205.png?raw=true"
+ 
 3. 
 
 4. Visualisation of calculations:
