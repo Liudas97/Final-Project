@@ -32,9 +32,9 @@ This is the main project file where all analyses were made.
 
 Steps:
 
-1. Calculated total wins by car and created graph of the Top 5 cars
+1. Calculated total wins by car and created a graph of the Top 5 cars
 
-3. Calculations for each index:
+3. 
 
 4. Visualisation of calculations:
 
