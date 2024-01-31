@@ -33,9 +33,10 @@ This is the main project file where all analyses were made.
 Steps:
 
 1. Calculated total wins by car and created a graph of the Top 5 cars
-<img width="700" alt="Screenshot 2023-11-15 at 20 33 11" src="https://github.com/Liudas97/Final-Project/blob/main/Graphics/wins%20by%20car%20top%205.png?raw=true">
+<img width="700" alt="Screenshot 2024-01-31" src="https://github.com/Liudas97/Final-Project/blob/main/Graphics/wins%20by%20car%20top%205.png?raw=true">
 
-2. 
+2. Calculated total winners and created a graph of the Top 5 winners
+<img width="700" alt="Screenshot 2024-01-31" src="https://github.com/Liudas97/Final-Project/blob/main/Graphics/wins%20by%20top%205%20winners.png?raw=true">  
 
 4. Visualisation of calculations:
 
