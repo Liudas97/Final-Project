@@ -1,6 +1,6 @@
 # **FORMULE 1** STATISTICAL ANALYSIS
 ## Details
-**Created by: [Liudas Dimša](https://github.com), [Agnė Koroliova](https://github.com) and [Danutė Glaveckaitė](https://github.com/NU-dot)**
+**Created by: [Liudas Dimša]([https://github.com/Liudas97), [Agnė Koroliova](https://github.com) and [Danutė Glaveckaitė](https://github.com/NU-dot)**
 
 This is the end project in Vilnius Coding School
 
