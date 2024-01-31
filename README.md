@@ -32,3 +32,11 @@ Steps:
 This is the main project file where all analysis were made. All visuals are controlled by functions, which helps to separate all graphs in the code.
 
 Steps:
+
+1. Unified all INDEXES data by formating Dates and selected 'Close' price columns
+
+2. Calculations for each index:
+
+3. Visualisation of calculations:
+
+## Conclusion
