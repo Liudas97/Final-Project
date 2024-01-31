@@ -1,4 +1,4 @@
-# LAD FINAL PROJECT
+# FINAL PROJECT
 ## Details
 **Created by: [Liudas Dimša](https://github.com/Liudas97), [Agnė Koroliova](https://github.com/AgneKor) and [Danutė Glaveckaitė](https://github.com/NU-dot)**
 
@@ -26,16 +26,16 @@ Steps:
 4. Exported data to the table in DataFrame format
 
 
-### final_project.py
+### f1analysis.py
 
-This is the main project file where all analysis were made. All visuals are controlled by functions, which helps to separate all graphs in the code.
+This is the main project file where all analyses were made. 
 
 Steps:
 
-1. Unified all INDEXES data by formating Dates and selected 'Close' price columns
+1. Calculated total wins by car and created graph of the Top 5 cars
 
-2. Calculations for each index:
+3. Calculations for each index:
 
-3. Visualisation of calculations:
+4. Visualisation of calculations:
 
 ## Conclusion
