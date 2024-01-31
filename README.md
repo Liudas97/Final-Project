@@ -19,6 +19,7 @@ Used database adapter: main.py
 
 ### web_scrap.py
 Used imports: BeautifulSoup, requests
+
 Steps:
 
 Getting data from URL ("https://www.formula1.com/en/results.html")
