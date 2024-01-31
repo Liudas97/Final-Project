@@ -6,9 +6,9 @@ This is the end project in Vilnius Coding School
 
 Project theme: Formule 1 statistical data analysis
 
-The main goal of the project is to find out who have the best performance during 20 years period (2003 - 2022)
+The main goal of the project is to find out who has the best performance during 20 years period (2003 - 2022)
 
-In this project we used to work with Python language, CSV files
+In this project, we used to work with Python language, CSV files
 
 ## Applied knowledge:
 
@@ -23,8 +23,8 @@ Used imports: BeautifulSoup, requests
 Steps:
 
 1. Getting data from URL (https://www.formula1.com/en/results.html) 
-2. Getting needed data from url as table using Beautiful soup and indicate analysis method (html.parser)
-3. Using "if" and "for" received data inserted into table in Postgres
+2. Getting needed data from URL as a table using Beautiful Soup and indicate analysis method (html.parser)
+3. Using "if" and "for" received data inserted into the table
 
 
 ### final_project.py
