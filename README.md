@@ -1,4 +1,4 @@
-# **FORMULE 1** STATISTICAL ANALYSIS
+# **FORMULE 1** GRAND PRIX WINNERS ANALYSIS
 ## Details
 **Created by: [Liudas Dimša](https://github.com/Liudas97), [Agnė Koroliova](https://github.com/AgneKor) and [Danutė Glaveckaitė](https://github.com/NU-dot)**
 
