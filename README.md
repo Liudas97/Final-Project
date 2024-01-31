@@ -6,7 +6,7 @@ This is the end project in Vilnius Coding School
 
 Project theme: Formule 1 statistical data analysis
 
-The main goal of the project is to find out who have the best performance during 20 years period (2003 - 2023)
+The main goal of the project is to find out who have the best performance during 20 years period (2003 - 2022)
 
 In this project we used to work with Python language, CSV files
 
