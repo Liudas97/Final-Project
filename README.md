@@ -50,5 +50,6 @@ In conclusion, analysis of the Formula 1 Gran Prix over the past 20 years reveal
 
 From analysis, we observe the top 5 cars that have dominated the sport during the analyzed period. In first place with 116 wins is Mercedes. Second is Ferrari with 83 wins. In third place with 48 wins is McLaren Mercedes car. Red Bull Racing Renault is in fourth place with 35 wins and in fifth place with 20 wins is Renault.
 
+Calculated total wins by winners and created a graph of the Top 5 winners
 
 
