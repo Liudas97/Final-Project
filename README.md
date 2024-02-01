@@ -52,6 +52,7 @@ Steps:
     
 4. Created chart to observe differences in winning time over the year
 
+        
            
 <img width="700" alt="Screenshot 2024-01-31" src="https://github.com/Liudas97/Final-Project/blob/main/Graphics/Best%20times%20over%20years%20in%20top%204%20countries.png?raw=true">
     
