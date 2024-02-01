@@ -67,10 +67,10 @@ In conclusion, analysis of the Formula 1 Gran prix over the past 20 years reveal
 
 Throughout the analyzed period, five particular cars stood out and dominated the sport of Formula 1: Mercedes, Ferrari, McLaren Mercedes, Red Bull Racing Renault, Renault.
 
-The analysis observed the Top 5 drivers' performances during over 58 or under 59 laps. Fernando Alonso, Max Verstappen, and Michael Schumacher have better performances driving over 58 laps. Lewis Hamilton and Sebastian Vettel have better performance driving under 59 laps.
+The analysis observed the top 5 drivers' performances when tracks were under 59 laps or over 58 laps. Fernando Alonso, Max Verstappen, and Michael Schumacher had better performances driving over 58 laps. Lewis Hamilton and Sebastian Vettel had better performance driving under 59 laps.
 
-Chart of top 5 winners victories over the 20 years shows, that there was a dominant period for a number of different people when they are able to win 10 or more competitions in a single year.
-It is also appearent that these top 5 drivers are each others main competition, as usually two or three of the top 5 people have victories in the same year.
-If this conclution is to be believed, then it is fair to say that Max Verstappen entered his dominant period in 2021 and he can be expected so stay in it for a few years to come.
+Chart of top 5 winners victories over the 20 years shows, that there was a dominant period for a number of different people when they were able to win 10 or more competitions in a single year.
+It is also appearent that these top 5 drivers are each others main competition, as usually two or three of the top 5 have victories in the same year.
+It is fair to say that Max Verstappen entered his dominant period in 2021 and he can be expected so stay in it for a few years to come if pattern continues.
 
-Among all countries, that help F1 competions, only 4 countries are put to analysis, Great Britain, Hungary, Spain and Italy because they held competitions every year during the 20 years period. Comparing winning time, Italy has best (shortest) winning time results and the smallest spread of 8 minutes and it varies between 75 and 83 minutes. The biggest spread of 20 minutes in Hungary, meaning most unstable results, they vary between 95 and 117 minutes. All 4 countries show the longest winning times in years 2020, 2021 and 2022. 
+Among all countries, that held F1 competions, only 4 countries were analysed - Great Britain, Hungary, Spain and Italy. These 4 were chosen because they held competitions every year during the 20 year period. When comparing winning times, Italy has the best (shortest) winning time results and the smallest variation of 8 minutes - it varies between 75 and 83 minutes. The greatest variation of 22 minutes was recorded in Hungary - between 95 and 117 minutes. All 4 countries show the longest winning times in years 2020, 2021 and 2022.
