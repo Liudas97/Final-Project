@@ -63,7 +63,7 @@ Steps:
   
 ## Conclusion
 
-In conclusion, analysis of the Formula 1 Gran prix over the past 20 years reveals some interesting patterns and trends in terms of winning drivers and cars. 
+In conclusion, analysis of the Formula 1 Gran prix over the past 20 years and 382 races reveals some interesting patterns and trends in terms of winning drivers and cars. 
 
 Throughout the analyzed period, five particular cars stood out and dominated the sport of Formula 1: Mercedes, Ferrari, McLaren Mercedes, Red Bull Racing Renault, Renault.
 
