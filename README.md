@@ -54,6 +54,7 @@ He got his first win in 2016 and won every year since then, 2021 being the most 
 2022 was another monumental year for Max, as he won 15 times, which is the most wins in a year from our sample data.
 
 
+
 4. Created chart to observe differences in winning time over the year
 <img width="700" alt="Screenshot 2024-01-31" src="https://github.com/Liudas97/Final-Project/blob/main/Graphics/Best%20times%20over%20years%20in%20top%204%20countries.png?raw=true">
 
