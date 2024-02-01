@@ -40,14 +40,10 @@ Steps:
 
 3. Created chart to observe victories over the years of Top 5 winners
 Findings:
+
+
+
 In the early and mid 2000 we can see that Michael Schumacher was the best. He only shows up in first 5 years of our sample data, but still is in the top 5 people with most wins over the 20years which shows his dominance.
-
-
-
-
-
-
-
 Fernando Alonso is the driver that was the main competition for Schumacher and Alonso stayed relevant until 2014, however he is the only one in the list who didn't have his 'era'. He had consistent results over the years, getting few wins each year but never crossing a 10 win mark.
 Next we have competition between 2 dominant contenders.
 Lewis Hamilton and Sebastiam Vettel started winning within a year of each other.
