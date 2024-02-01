@@ -37,7 +37,7 @@ Steps:
 
   
 
- From analysis, we observe the top 5 cars that have dominated the sport during the analyzed period. In first place with 116 wins is Mercedes. Second is Ferrari with 83 wins. In third place with 48 wins is McLaren Mercedes car. Red Bull Racing Renault is in fourth place with 35 wins and in fifth place with 20 wins is Renault.
+  From analysis, we observe the top 5 cars that have dominated the sport during the analyzed period. In first place with 116 wins is Mercedes. Second is Ferrari with 83 wins. In third place with 48 wins is McLaren Mercedes car. Red Bull Racing Renault is in fourth place with 35 wins and in fifth place with 20 wins is Renault.
  
   
 
@@ -51,7 +51,7 @@ Steps:
 
   
 
- In Formula 1, the number of laps completed during a race can greatly impact a driver's performance and ultimately their chances of securing a victory. The second graph observes more specific results to understand how drivers fare based on the number of laps completed over 58 or under 59 laps. Fernando Alonso has better performance driving over 58 laps 17 > 15. Lewis Hamilton has better performance driving under 59 laps 46 < 57. Max Verstappen has better performance driving over 58 laps 19 > 16. Michael Schumacher has better performance driving over 58 laps 20 > 7. Sebastian Vettel has better performance driving under 59 laps 20 < 33.
+  The second graph observes more specific results to understand how drivers fare based on the number of laps completed over 58 or under 59 laps. Fernando Alonso has better performance driving over 58 laps 17 > 15. Lewis Hamilton has better performance driving under 59 laps 46 < 57. Max Verstappen has better performance driving over 58 laps 19 > 16. Michael Schumacher has better performance driving over 58 laps 20 > 7. Sebastian Vettel has better performance driving under 59 laps 20 < 33.
  
   
 
