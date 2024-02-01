@@ -45,3 +45,8 @@ Steps:
 <img width="700" alt="Screenshot 2024-01-31" src="https://github.com/Liudas97/Final-Project/blob/main/Graphics/Best%20times%20over%20years%20in%20top%204%20countries.png?raw=true">
 
 ## Conclusion
+
+In conclusion, analysis of the Formula 1 Gran Prix over the past 20 years reveals some interesting patterns and trends in terms of winning drivers and cars. 
+From analysis, we observe the top 5 cars that have dominated the sport during the analyzed period. 
+
+
