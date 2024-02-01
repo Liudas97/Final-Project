@@ -65,9 +65,9 @@ Steps:
 
 In conclusion, analysis of the Formula 1 Gran Prix over the past 20 years reveals some interesting patterns and trends in terms of winning drivers and cars. 
 
-From analysis, we observe the top 5 cars that have dominated the sport during the analyzed period. In first place with 116 wins is Mercedes. Second is Ferrari with 83 wins. In third place with 48 wins is McLaren Mercedes car. Red Bull Racing Renault is in fourth place with 35 wins and in fifth place with 20 wins is Renault.
+Throughout the analyzed period, five particular cars stood out and dominated the sport of Formula 1: Mercedes, Ferrari, McLaren Mercedes, Red Bull Racing Renault, Renault.
 
-In Formula 1, the number of laps completed during a race can greatly impact a driver's performance and ultimately their chances of securing a victory. The second graph observes more specific results to understand how drivers fare based on the number of laps completed over 58 or under 59 laps. Fernando Alonso has better performance driving over 58 laps 17 > 15. Lewis Hamilton has better performance driving under 59 laps 46 < 57. Max Verstappen has better performance driving over 58 laps 19 > 16. Michael Schumacher has better performance driving over 58 laps 20 > 7. Sebastian Vettel has better performance driving under 59 laps 20 < 33.
+The analysis observed the Top 5 drivers' performances during over 58 or under 59 laps. Fernando Alonso, Max Verstappen, and Michael Schumacher have better performances driving over 58 laps. Lewis Hamilton and Sebastian Vettel have better performance driving under 59 laps.
 
 Chart of top 5 winners victories over the 20 years shows, that there was a dominant period for a number of different people when they are able to win 10 or more competitions in a single year.
 It is also appearent that these top 5 drivers are each others main competition, as usually two or three of the top 5 people have victories in the same year.
