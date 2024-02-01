@@ -45,6 +45,7 @@ plt.xlabel('Car')
 plt.ylabel('Total wins')
 plt.title('Total wins by car', fontsize=20)
 plt.xticks(rotation=0)
+plt.grid(axis='y')
 plt.show()
 
 # Total wins by top5 winners:
@@ -59,6 +60,7 @@ plt.ylabel('Total wins')
 plt.title('Total wins by Top5 winners', fontsize=20)
 plt.xticks(rotation=0)
 plt.legend()
+plt.grid(axis='y')
 plt.show()
 
 
@@ -71,6 +73,7 @@ plt.ylabel('Number of Wins')
 plt.title('Change in number of wins over the 20 years (Top 5 winners)', fontsize=20)
 plt.xticks(wins_over_years_top_5.index[::1])
 plt.legend()
+plt.grid(True)
 plt.show()
 
 
@@ -96,6 +99,7 @@ for i, country in enumerate(top_4_most_Grand_prix):
     ab.set_xlabel('Year')
     ab.set_ylabel('Best Time in minutes')
     ab.set_xticks(range(df_top_4_countries['Year'].min(), df_top_4_countries['Year'].max() + 1, 2))
+    ab.grid(axis='y')
 
 plt.suptitle('Winning time over the years by country (Top 4 countries with most Grand prix held)', fontsize=20)
 plt.tight_layout()
